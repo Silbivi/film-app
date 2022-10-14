@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "492760739805",
+    "project_id": "fir-login-a7522",
+    "storage_bucket": "fir-login-a7522.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492760739805:android:da9b45d446846485299034",
+        "android_client_info": {
+          "package_name": "com.testreactnative"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "492760739805-s1es1d59gfsnh11vqlhklhv6u8ks8ndu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8Hhqt6-pSwm0BHg5z8PdN5zFPvIQEa1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "492760739805-s1es1d59gfsnh11vqlhklhv6u8ks8ndu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
